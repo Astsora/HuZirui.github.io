@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Zirui Hu / Academic Portfolio"
+title                    : "Zirui Hu / Home Page"
 title_separator          : "-"
 name                     : &name "Zirui Hu"
 description              : &description "Zirui Hu's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,11 +26,10 @@ author:
   avatar           : "profile.png"
   name             : "Zirui Hu"
   pronouns         : # example: "she/her"  
-  bio              : "Third-year undergraduate in Mathematics and Applied Mathematics at SUSTech. Research interests: machine learning, optimization, and computer vision."
+  bio              : "SUSTech"
   location         : "Shenzhen, Guangdong, China"
-  employer         : "Southern University of Science and Technology"
   uri              : # URL
-  email            : "1247261761@qq.com" 
+  email            : "12212601@mail.ustech.edu.cn" 
 
   # Academic websites
   academia         : # URL
@@ -48,7 +47,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "ziruihu"
+  github           : "https://github.com/Astsora"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
